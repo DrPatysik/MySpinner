@@ -1,5 +1,7 @@
 <resources>
+    <string name="eye_structure">Строение глаза</string>
     <string name="spinner">Строение глаза</string>
+    <string name="description">Описание</string>
 
     <string-array name="eyeStructure">
         <item>Склера</item>

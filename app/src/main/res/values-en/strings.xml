@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eye_structure">Structure of the eye</string>
+    <string name="spinner">Строение глаза</string>
+    <string name="description">Description</string>
+
+    <string-array name="eyeStructure">
+        <item>Sclera</item>
+        <item>Cornea</item>
+        <item>Front camera and back camera</item>
+        <item>Lens</item>
+        <item>Vitreous body</item>
+        <item>Retina</item>
+        <item>Choroid</item>
+    </string-array>
+
+    <string-array name="descriptionOfEye">
+        <item>The sclera is the opaque outer layer of the eyeball that merges at the front of the eyeball into the transparent cornea. 6 extraocular muscles are attached to the sclera.</item>
+        <item>The cornea is the transparent membrane covering the front of the eye. It lacks blood vessels and has great refractive power. Part of the optical system of the eye. </item>
+        <item>The anterior chamber is located behind the cornea and is limited behind by the iris, and in front by the inner surface of the cornea. Behind the anterior chamber is the posterior. It is limited by the iris, ciliary body, anterior part of the vitreous body and the center of the lens. </item>
+        <item>The lens of the eye is a transparent biological lens that has a biconvex shape and is part of the light-conducting and light-refracting system of the eye, and provides accommodation (the ability to focus on objects at different distances).</item>
+        <item>The vitreous humor is a gel-like transparent substance located in the back of the eye. The vitreous body maintains the shape of the eyeball and is involved in intraocular metabolism. Part of the optical system of the eye.</item>
+        <item>The retina is a thin layer of nerve tissue located on the inside of the back of the eyeball. The retina is responsible for perceiving the image that is projected onto it using the cornea and lens, and converting it into nerve impulses, which are then transmitted to the brain.</item>
+        <item>The choroid of the eye (choroid) is the middle layer of the eye, located between the retina and the sclera. The choroid is mostly represented by a developed network of blood vessels. The blood vessels of the choroid are located in a certain order - inside, almost bordering the retina, there is a layer of capillaries, and on the outside there are larger vessels.</item>    </string-array>
+</resources>
